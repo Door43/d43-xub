@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xub:home|Door43 (xub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xub|d43-xub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xub/archive/master.zip|d43-xub.zip]]
+
+**Recent Changes**
+{{changes>ns = xub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xub|Ethnologue data]]
+
