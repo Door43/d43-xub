@@ -1,0 +1,11 @@
+====== Complete list of Important Terms ======
+
+==== "Key Terms" and "Other Terms" in OBE: ====
+
+  * [[:xub:obe:kt:home|Key Terms]]
+  * [[:xub:obe:other:home|Other Terms]]
+  * [[:xub:bible:admin-reports:obe-admin:obe-reject]]
+
+==== All terms from both lists: ====
+
+{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
